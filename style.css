@@ -1,0 +1,28 @@
+.carousel-item {
+  height: 32rem;
+  background: #777;
+  color: white;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+
+.image-bg {
+  background-image: url(img/slide-1.jpg);
+}
+
+.image-bg_2 {
+  background-image: url(img/slide-2.jpg);
+}
+
+.image-bg_3 {
+  background-image: url(img/slide-3.jpg);
+}
