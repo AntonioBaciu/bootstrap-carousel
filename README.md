@@ -1,6 +1,6 @@
 # bootstrap-carousel
-https://antoniobaciu.github.io/bootstrap-carousel/
-
+# Website [LINK](https://antoniobaciu.github.io/bootstrap-carousel/)
+![](img/website-preview.png)
 # Title: One more round on the Carousel!
 
 ## The Mission
